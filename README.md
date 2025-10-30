@@ -56,7 +56,7 @@ We specialize in:
 
 ---
 
-## 📊 GitHub Stats
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
