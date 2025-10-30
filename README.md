@@ -1,7 +1,6 @@
 <h1 align="center"> MPD.DIGITAL 🧠🚀</h1>
 <p align="center"><em>From innovation to implementation</em></p>
 
-
 ---
 
 ## 🧩 About Us
