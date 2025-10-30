@@ -1,4 +1,4 @@
-<h1 align="center">Goose Technology 🧠🚀</h1>
+<h1 align="center"> MPD.DIGITAL 🧠🚀</h1>
 <p align="center"><em>From innovation to implementation</em></p>
 
 
@@ -6,7 +6,7 @@
 
 ## 🧩 About Us
 
-**Goose Technology** is a next-generation digital studio based in 🇨🇭 Switzerland.  
+** MPD.DIGITAL ** is a next-generation digital studio based in Switzerland.  
 We build high-performance software across **Web3**, **AI**, and creative product development.
 
 We specialize in:
@@ -76,13 +76,10 @@ We specialize in:
 ## 🌐 Connect with Us
 
 - 🌍 **Website**: [https://goose.technology](https://goose.technology)
-- 📩 **Email**: [goose.technology.it@gmail.com](mailto:goose.technology.it@gmail.com)
-- 💼 **LinkedIn**: [Goose Technology](https://linkedin.com/company/goose-technology)
-- 📸 **Instagram**: [@goose.technology](https://instagram.com/goose.technology)
-- 🐦 **Twitter / X**: [@goose_tech_ai](https://x.com/goose_tech_ai)
-- 💬 **Telegram**: [@goose_tech](https://t.me/goose_tech)
-- 🌐 **GitHub**: [github.com/goose-tech](https://github.com/goose-tech)
+- 📩 **Email**: [mpd.digital.swiss@gmail.com](mailto:mpd.digital.swiss@gmail.com)
+- 💼 **LinkedIn**: [MPD.DIGITAL](https://www.linkedin.com/company/mpddigital/)
+- 📸 **Instagram**: [@mpd.digital.swiss](https://www.instagram.com/mpd.digital.swiss)
 
 ---
 
-> Goose Technology — building the future from Switzerland 🇨🇭 to the world.
+> MPD.DIGITAL — building the future from Switzerland to the world.
