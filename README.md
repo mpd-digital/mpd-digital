@@ -54,12 +54,6 @@ We specialize in:
 - **Wallets**: Metamask, Phantom, WalletConnect, Privy  
 - **Bridges**: Wormhole, LayerZero
 
----
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
 
 ---
 
