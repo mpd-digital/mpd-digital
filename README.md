@@ -67,7 +67,7 @@ We specialize in:
 
 ## 🌐 Connect with Us
 
-- 🌍 **Website**: [https://goose.technology](https://goose.technology)
+- 🌍 **Website**: [https://MPD.DIGITAL](https://mpddigita.vercel.app/)
 - 📩 **Email**: [mpd.digital.swiss@gmail.com](mailto:mpd.digital.swiss@gmail.com)
 - 💼 **LinkedIn**: [MPD.DIGITAL](https://www.linkedin.com/company/mpddigital/)
 - 📸 **Instagram**: [@mpd.digital.swiss](https://www.instagram.com/mpd.digital.swiss)
