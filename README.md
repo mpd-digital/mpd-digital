@@ -6,7 +6,7 @@
 
 ## 🧩 About Us
 
-**Goose Technology** is a next-generation digital studio based in 🇨🇭 Switzerland.  
+**MPD.DIGITAL** is a next-generation digital studio based in 🇨🇭 Switzerland.  
 We build high-performance software across **Web3**, **AI**, and creative product development.
 
 We specialize in:
