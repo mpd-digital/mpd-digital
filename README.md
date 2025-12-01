@@ -23,7 +23,7 @@ We specialize in:
 
 ### ⚙️ Languages & Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/grok.svg" width="40" height="40" style="filter: brightness(0) invert(1);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
