@@ -19,9 +19,8 @@ We specialize in:
 ### Languages & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                  width="40" height="40" style="filter: brightness(0) invert(1);" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/grok.svg"                         width="40" height="40" style="filter: brightness(0) invert(1);" alt="Grok" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/openai.svg"                       width="40" height="40" style="filter: brightness(0) invert(1);" alt="OpenAI" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/visa.svg"                          width="56" height="40" style="filter: brightness(0) invert(1);" alt="Visa" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/openai.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="OpenAI" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/visa.svg" width="56" height="40" style="filter: brightness(0) invert(1);" alt="Visa" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"                width="40" height="40" style="filter: brightness(0) invert(1);" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"        width="40" height="40" style="filter: brightness(0) invert(1);" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        width="40" height="40" style="filter: brightness(0) invert(1);" alt="JavaScript" />
