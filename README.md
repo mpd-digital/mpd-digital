@@ -1,9 +1,11 @@
 
   
-<h1 align="center"> MPD.DIGITAL</h1>
+<h1 align="center"> MPD.DIGITAL🧠🚀</h1>
 <p align="center"><em>From innovation to implementation</em></p>
 ---
-## About Us
+## 🧩 About Us
+
+
 **MPD.DIGITAL** is a next-generation digital studio based in Switzerland.  
 We build high-performance software across **Web3**, **AI**, and creative product development.
 
@@ -14,9 +16,9 @@ We specialize in:
 - Design systems, AI visuals, motion & branding
 - MVPs, dashboards, data pipelines
 ---
-## Tech Stack
+##🛠 Tech Stack
 
-### Languages & Frameworks
+###⚙️Languages & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                  width="40" height="40" style="filter: brightness(0) invert(1);" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/openai.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="OpenAI" />
@@ -31,14 +33,14 @@ We specialize in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"      width="40" height="40" style="filter: brightness(0) invert(1);" alt="Tailwind" />
 </p>
 
-### AI / Backend Tools
+### 🧠 AI / Backend Tools
 - **Python**: FastAPI, LangChain, Pandas, Numpy  
 - **AI APIs**: OpenAI, Claude, Grok, ElevenLabs, Whisper  
 - **TTS / Voice AI / Agents**  
 - **DBs**: PostgreSQL, MongoDB, PlanetScale  
 - **CMS**: Sanity, Supabase, MDX  
 
-### Web3 & Blockchain
+### 🌐 Web3 & Blockchain
 - **Ethereum (EVM)**: Solidity, Hardhat, Ethers.js, wagmi  
 - **Solana**: @solana/web3.js, Anchor, SPL, Metaplex  
 - **NFTs**: Minting, Marketplaces, Metaplex, Lazy Mint  
@@ -46,17 +48,17 @@ We specialize in:
 - **Bridges**: Wormhole, LayerZero  
 
 ---
-## Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-## Connect with Us
-- Website: [https://MPD.DIGITAL](https://mpddigita.vercel.app/)
-- Email: [mpd.digital.swiss@gmail.com](mailto:mpd.digital.swiss@gmail.com)
-- LinkedIn: [MPD.DIGITAL](https://www.linkedin.com/company/mpddigital/)
-- Instagram: [@mpd.digital.swiss](https://www.instagram.com/mpd.digital.swiss)
+## 🌐Connect with Us
+- 🌍Website: [https://MPD.DIGITAL](https://mpddigita.vercel.app/)
+- 📩Email: [mpd.digital.swiss@gmail.com](mailto:mpd.digital.swiss@gmail.com)
+- 💼LinkedIn: [MPD.DIGITAL](https://www.linkedin.com/company/mpddigital/)
+- 📸Instagram: [@mpd.digital.swiss](https://www.instagram.com/mpd.digital.swiss)
 
 ---
 > MPD.DIGITAL — building the future from Switzerland to the world.
